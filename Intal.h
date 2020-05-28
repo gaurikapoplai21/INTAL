@@ -1,23 +1,4 @@
 
-Skip to content
-Using Gmail with screen readers
-MeetNew
-Start a meeting
-Join a meeting
-Chat
-1 of about 72
-(no subject)
-gaurika poplai <gaurikapoplai@gmail.com>
-	
-AttachmentsSun, May 24, 4:01 PM (4 days ago)
-	
-to Shivi
-
-2 Attachments
-	
-	
-	
-
 // Library "intal" - Integer of arbitray length
 // intal is a nonnegative integer of arbitrary length (not more than 1000 decimal digits).
 // The integer is stored as a null terminated string of ASCII characters.
