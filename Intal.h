@@ -103,5 +103,4 @@ void intal_sort(char **arr, int n);
 // Eg: Coins = [10, 2, 4, 6, 3, 9, 5] returns 25
 char* coin_row_problem(char **arr, int n);
 
-intal.h
-Displaying intal.h.
+
